@@ -372,5 +372,3 @@ docker-compose restart
 - Implementation Guide: `IMPLEMENTATION_GUIDE.md`
 
 ---
-
-Happy testing! 🎉
