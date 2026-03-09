@@ -556,18 +556,4 @@ Manual Testing Checklist
   </tr>
 </table>
 
-## 🎥 Demo Video
 
-**[📹 Watch Complete Demo on YouTube](https://youtu.be/4KSuhuzYth4)**
-
-The video demonstrates the complete end-to-end payment flow:
-- ✅ Starting all services with Docker Compose
-- ✅ Merchant dashboard login and authentication
-- ✅ API credentials and real-time statistics
-- ✅ Creating test payment orders
-- ✅ UPI payment processing with validation
-- ✅ Card payment processing with Luhn algorithm
-- ✅ Payment status polling and updates
-- ✅ Transaction history with complete details
-
-**Duration**: ~5.43 minutes
